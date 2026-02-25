@@ -77,7 +77,7 @@ If you have questions regarding the GRACE/GLDAS data processing methodology, tec
 
 📩 lilla.manzione@unesp.br
 
-## Acknowledgments and Support
+## Acknowledgments
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4b072ca-877f-4bea-80c3-37c78c1ecd12" width="120" alt="Logo Unesp" />
