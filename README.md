@@ -1,20 +1,11 @@
 # GSDAS - PPRB
 ### Groundwater Storage Data Analysis in Spatio-temporal scale - Paranapanema River Basin
 <a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank" rel="noopener noreferrer">
-  Link para o aplicativo
+  Access the Application<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0850687c-9fd0-4e55-bd50-20f507019a29" />
+
 </a>
 
 ### APP Tutorial
-
-#### Data Source
-Groundwater Storage - GLDAS Catchment Land Surface Model L4 daily 0.25 x 0.25 degree GRACE-DA1 V2.2
- 
-<a href="https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_DA1_D_2.2/summary?keywords=GLDAS" target="_blank" rel="noopener noreferrer">
-  Repositório GES DISC
-</a>
-
-#### Data Processing and Publishing
-ArcGIS Pro 3.5.3 and ArcGIS Experience Builder
 
 ## Welcome!
 
@@ -49,7 +40,7 @@ Regarding data visualization, you can use the default interface with minimized w
 
 #### 3. Layer Management and Legends
 
-To toggle layer visibility, click the layer list icon  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d3f031f5-79f6-4a36-b2b8-f91004fb7d31" />  in the top right corner of each map window. Select or deselect the layers of interest to customize your view. The legends for all currently active layers can also be found within this same menu (Image 3).
+To toggle layer visibility, click the layer list icon  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c22f8fa2-3f09-4d72-83bf-940d111b6354" />  in the top right corner of each map window. Select or deselect the layers of interest to customize your view. The legends for all currently active layers can also be found within this same menu (Image 3).
 
 Note: The “Layer Definitions” panel, found in the expandable sidebar, provides a brief technical description of the available datasets and detailed legend information.
 
@@ -74,7 +65,20 @@ This panel allows you to interact with layers, apply custom filters, and export 
 ## Protocol/License
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
-<a href="https://creativecommons.org/licenses/by-nc/4.0/"><img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/fb1f53bb-b9dd-4537-a756-d32bde3433da" />
+<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer"><img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/fb1f53bb-b9dd-4537-a756-d32bde3433da" />
+
+## Data Sources and Technologies
+
+#### Scientific Data
+Groundwater Storage - GLDAS Catchment Land Surface Model L4 daily 0.25 x 0.25 degree GRACE-DA1 V2.2
+ 
+<a href="https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_DA1_D_2.2/summary?keywords=GLDAS" target="_blank" rel="noopener noreferrer">
+  GES DISC <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aebe2f7c-b253-4def-8fe8-305bd4058f39" />
+
+</a>
+
+#### Software and Platforms
+ArcGIS Pro 3.5.3 and ArcGIS Experience Builder
 
 ## Inquiries and Academic Support 
 If you have questions regarding the GRACE/GLDAS data processing methodology, technical issues with the interface, or interest in scientific collaborations, please feel free to contact the authors at the following email address:
