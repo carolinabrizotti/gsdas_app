@@ -1,7 +1,7 @@
 # GSDAS - PPRB
 ### Groundwater Storage Data Analysis in Spatio-temporal scale - Paranapanema River Basin
 <a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank" rel="noopener noreferrer">
-  Abrir em nova aba
+  Link para o aplicativo
 </a>
 
 ### APP Tutorial
@@ -10,7 +10,7 @@
 Groundwater Storage - GLDAS Catchment Land Surface Model L4 daily 0.25 x 0.25 degree GRACE-DA1 V2.2
  
 <a href="https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_DA1_D_2.2/summary?keywords=GLDAS" target="_blank" rel="noopener noreferrer">
-  Abrir em nova aba
+  Repositório GES DISC
 </a>
 #### Data Processing and Publishing
 ArcGIS Pro 3.5.3 and ArcGIS Experience Builder
