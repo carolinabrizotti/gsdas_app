@@ -1,13 +1,8 @@
 # GSDAS - PPRB
 ### Groundwater Storage Data Analysis in Spatio-temporal scale - Paranapanema River Basin
-<a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank" rel="noopener noreferrer">
-  Access the Application<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0850687c-9fd0-4e55-bd50-20f507019a29" />
-
-<p align="left">
-  <a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank" rel="noopener noreferrer">
-    <b>🚀 Abrir Aplicação em Nova Aba / Open App in New Tab</b>
-  </a>
-</p>
+> [!TIP]
+> ### [🔗 Click here to access the application](https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/)
+> _To keep this tutorial open, we recommend **right-clicking** and selecting **"Open link in new tab"**._
 
 ### APP Tutorial
 
