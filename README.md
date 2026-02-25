@@ -72,7 +72,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 Groundwater Storage - GLDAS Catchment Land Surface Model L4 daily 0.25 x 0.25 degree GRACE-DA1 V2.2
  
 <a href="https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_DA1_D_2.2/summary?keywords=GLDAS" target="_blank" rel="noopener noreferrer">
-  GES DISC <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aebe2f7c-b253-4def-8fe8-305bd4058f39" />
+  GES DISC <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aebe2f7c-b253-4def-8fe8-305bd4058f39" target="_blank" rel="noopener noreferrer" />
 
 </a>
 
