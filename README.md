@@ -3,9 +3,10 @@
 <a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank" rel="noopener noreferrer">
   Access the Application<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0850687c-9fd0-4e55-bd50-20f507019a29" />
 
-</a>
 
-<a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank"><b> Access the Application</b> <img src="https://github.com/user-attachments/assets/0850687c-9fd0-4e55-bd50-20f507019a29" width="16" height="16"></a>
+<a href="https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Aplicativo-Acesse%20aqui-blue?style=for-the-badge&logo=arcgis&logoColor=white" alt="Access Application" />
+</a>
 
 ### APP Tutorial
 
