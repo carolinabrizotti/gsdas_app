@@ -1,24 +1,24 @@
 # GSDAS - PPRB
-### Groundwater Storage Data Analysis in Spatio-temporal scale - Paranapanema River Basin
+### Groundwater Storage Data Analysis at a Spatio-temporal scale - Paranapanema River Basin
 
 > [!TIP]
 > ### [🔗 Click here to access the application](https://experience.arcgis.com/experience/c151ea9277b64b59bc5e7257b77c7524/)
-> _To keep this tutorial open, we recommend **right-clicking** and selecting **"Open link in new tab"**._
+> _To keep this tutorial open, we recommend **right-clicking** the link and selecting **"Open link in new tab"**._
 
 ## APP Tutorial
 ### Welcome!
 
-This tutorial is designed to guide you through the features and information layers of this application.
+This tutorial is designed to guide you through the features and information layers of the application.
 
-This guide aims to clearly present the available resources, the paths to access the data, and the procedures for interacting with the 2D and 3D visualizations. 
+This guide aims to clearly present the available resources, the pathways for accessing the data, and the procedures for interacting with the 2D and 3D visualizations. 
 
-The application was developed with the intention of providing the user with spatio-temporal information on the availability of groundwater in the Paranapanema River Basin. It provides information on total groundwater storage values ​​in millimeters (mm) throughout the period from 2003 to 2025, and statistics associated with the analysis of emerging hot/cold spots and trends in the basin.
+The application was developed to provide users with spatio-temporal information about groundwater availability in the Paranapanema River Basin. It presents information on total groundwater storage values in millimeters (mm) for the period 2003–2025, along with statistics associated with the analysis of emerging hot and cold spots and spatial-temporal trends in the basin.
 
-Explore the following sections to understand the content structure and unlock the full potential of this tool.
+Explore the following sections to understand the content structure and fully utilize the capabilities of this tool.
 
 #### 1. Interface Overview
 
-Upon entering the application, use the expandable panels in the left sidebar to access comprehensive project information. This section provides details information regarding data methodology, map layers, and associated works (Figure 1)
+Upon entering the application, use the expandable panels in the left sidebar to access comprehensive project information. This section provides detailed information regarding the data methodology, map layers, and associated works (Figure 1)
 
 ![chrome-capture-2026-02-23 (1)](https://github.com/user-attachments/assets/395546ad-9669-4ff2-8456-f78d5e00c8d1)
 Figure 1 – Experience Builder interface.
@@ -39,14 +39,14 @@ Regarding data visualization, you can use the default interface with minimized w
 
 #### 3. Layer Management and Legends
 
-To toggle layer visibility, click the layer list icon  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c22f8fa2-3f09-4d72-83bf-940d111b6354" />  in the top right corner of each map window. Select or deselect the layers of interest to customize your view. The legends for all currently active layers can also be found within this same menu (Image 3).
+To toggle layer visibility, click the layer list icon  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c22f8fa2-3f09-4d72-83bf-940d111b6354" />  in the top-right corner of each map window. Select or deselect the layers of interest to customize your view. The legends for all currently active layers can also be found within this same menu (Figure 2).
 
 Note: The “Layer Definitions” panel, found in the expandable sidebar, provides a brief technical description of the available datasets and detailed legend information.
 
 ![Design sem nome (1)](https://github.com/user-attachments/assets/97c05c9f-b5e0-4c7c-aa92-9ff208563aa6)
 
 #### 4. Map Interactivity and Exploration
-The maps contain selectable features with interactive interfaces. By clicking on an element, a pop-up window displays detailed attribute data (Image 4), such as:
+The maps contain selectable features with interactive interfaces. By clicking on an element, a pop-up window displays detailed attribute data (Figure 3), such as:
 
 - Object identification;
 - Corresponding time period;
@@ -57,14 +57,9 @@ The maps contain selectable features with interactive interfaces. By clicking on
 
 #### 5. Data Extraction and Export
 Explore the data on the bottom map (2D interface) using the expandable sidebar.
-This panel allows you to interact with layers, apply custom filters, and export the datasets (Image 5).
+This panel allows you to interact with layers, apply custom filters, and export the datasets (Figure 4).
 
 ![Design sem nome](https://github.com/user-attachments/assets/39ddc6e4-0d49-4434-b0e0-7bb647a748ad)
-
-## Protocol/License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-
-<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer"><img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/fb1f53bb-b9dd-4537-a756-d32bde3433da" />
 
 ## Data Sources and Technologies
 
