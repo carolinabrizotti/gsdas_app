@@ -21,6 +21,7 @@ Explore the following sections to understand the content structure and fully uti
 Upon entering the application, use the expandable panels in the left sidebar to access comprehensive project information. This section provides detailed information regarding the data methodology, map layers, and associated works (Figure 1)
 
 ![chrome-capture-2026-02-23 (1)](https://github.com/user-attachments/assets/395546ad-9669-4ff2-8456-f78d5e00c8d1)
+
 Figure 1 – Experience Builder interface.
 
 #### 2. Navigation and Control Tools
