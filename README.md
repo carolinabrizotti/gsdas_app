@@ -44,6 +44,7 @@ To toggle layer visibility, click the layer list icon  <img width="20" height="2
 Note: The “Layer Definitions” panel, found in the expandable sidebar, provides a brief technical description of the available datasets and detailed legend information.
 
 ![Design sem nome (1)](https://github.com/user-attachments/assets/97c05c9f-b5e0-4c7c-aa92-9ff208563aa6)
+Figure 2 – Legends.
 
 #### 4. Map Interactivity and Exploration
 The maps contain selectable features with interactive interfaces. By clicking on an element, a pop-up window displays detailed attribute data (Figure 3), such as:
@@ -54,12 +55,14 @@ The maps contain selectable features with interactive interfaces. By clicking on
 - Associated calculations (where available for the active layer).
  
 ![chrome-capture-2026-02-24](https://github.com/user-attachments/assets/88696ea3-bfb5-45d8-b9a3-129d49c43d65)
+Figure 3 – Map Interactivity.
 
 #### 5. Data Extraction and Export
 Explore the data on the bottom map (2D interface) using the expandable sidebar.
 This panel allows you to interact with layers, apply custom filters, and export the datasets (Figure 4).
 
 ![Design sem nome](https://github.com/user-attachments/assets/39ddc6e4-0d49-4434-b0e0-7bb647a748ad)
+Figure 4 – Exporting data.
 
 ## Data Sources and Technologies
 
